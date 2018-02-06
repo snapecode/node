@@ -1,0 +1,1 @@
+exports.myText = " Hey, this is your test module!!!"
